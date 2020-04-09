@@ -1,0 +1,59 @@
+@charset "utf-8";
+.main .right {
+  margin-top: 25px;
+  margin-bottom: 90px;
+}
+.main .right .c-img {
+  height: 139px;
+  width: 223px;
+  border: 1px solid #CCCCCC;
+  padding-left: 60px;
+  margin-bottom: 30px;
+}
+.main .right .c-img a {
+  width: 103px;
+  height: 138px;
+  float: left;
+}
+.main .right .c-right h3 {
+  font-size: 18px;
+  line-height: 210%;
+  font-weight: bold;
+}
+.main .right .c-right p:nth-of-type(1) {
+  line-height: 210%;
+  font-size: 12px;
+  font-family: "微软雅黑";
+  color: #000000;
+  border: none;
+}
+.main .right .c-right span {
+  line-height: 210%;
+  font-size: 12px;
+  font-family: "微软雅黑";
+  color: #000000;
+}
+.main .right p {
+  color: #000000;
+  font-size: 12px;
+  line-height: 310%;
+  font-weight: bold;
+  border-bottom: 1px dashed #CCCCCC;
+}
+.main .right .out-img {
+  width: 500px;
+  height: 667px;
+  margin-bottom: 30px;
+}
+.main .right .out-img .z-img {
+  float: left;
+  margin-top: 20px;
+}
+.main .right .zxy-span {
+  color: #CCCCCC;
+  line-height: 310%;
+}
+.main .right .zxy-span strong {
+  font-weight: bold;
+  color: #999999;
+}

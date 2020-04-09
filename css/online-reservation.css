@@ -1,0 +1,74 @@
+.main .right form {
+  margin-top: 40px;
+}
+.main .right form div {
+  border-bottom: 1px solid #eeeeee;
+  line-height: 34px;
+  padding-left: 40px;
+}
+.main .right form div label {
+  font-size: 12px;
+}
+.main .right form div label span {
+  color: red;
+}
+.main .right form div input {
+  width: 324px;
+  height: 22px;
+  border: 1px solid #9D9D9D;
+}
+.main .right form div span {
+  color: #000000;
+}
+.main .right form div:nth-of-type(3) {
+  border-bottom: 1px solid #eeeeee;
+  line-height: 34px;
+  padding-left: 16.5px;
+}
+.main .right form div:nth-of-type(3) label {
+  font-size: 12px;
+}
+.main .right form div:nth-of-type(3) label span {
+  color: red;
+}
+.main .right form div:nth-of-type(3) input {
+  width: 324px;
+  height: 22px;
+  border: 1px solid #9D9D9D;
+}
+.main .right form div:nth-of-type(3) span {
+  color: #000000;
+}
+.main .right form div:nth-of-type(5) {
+  border-bottom: 1px solid #eeeeee;
+  padding-left: 80px;
+  padding-top: 10px;
+  position: relative;
+}
+.main .right form div:nth-of-type(5) label {
+  position: absolute;
+  left: 4%;
+  top: 35%;
+}
+.main .right form div:nth-of-type(5) label {
+  font-size: 12px;
+}
+.main .right form div:nth-of-type(5) textarea {
+  width: 164px ;
+  border: 1px solid #9D9D9D;
+}
+.main .right form div:nth-of-type(5) span {
+  color: #000000;
+}
+.main .right form div:nth-of-type(6) {
+  border-bottom: 1px solid #eeeeee;
+  padding-left: 80px;
+  position: relative;
+}
+.main .right form div:nth-of-type(6) button {
+  border-radius: 0px;
+  border: 1px solid #999999;
+  padding: 3px 5px;
+  color: #000000;
+  background: #e0e0e0;
+}

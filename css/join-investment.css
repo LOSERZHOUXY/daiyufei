@@ -1,0 +1,22 @@
+.main .right {
+  margin-bottom: 100px;
+}
+.main .right p {
+  font-size: 14px;
+  line-height: 30px;
+  color: #777777;
+  text-indent: 30px;
+  margin-bottom: 50px;
+}
+.main .right ol {
+  margin-left: 70px;
+}
+.main .right ol li {
+  font-size: 14px;
+  line-height: 50px;
+  color: #777777;
+  list-style-type: decimal;
+}
+.main .right a {
+  float: left;
+}
